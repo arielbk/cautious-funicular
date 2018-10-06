@@ -1,0 +1,16 @@
+{
+  "name": "lucid-full",
+  "version": "1.0.0",
+  "description": "Full stack productivity app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arielbk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "react": "^16.5.2",
+    "webpack": "^4.20.2"
+  }
+}
